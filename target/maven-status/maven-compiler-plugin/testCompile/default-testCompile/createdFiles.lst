@@ -1,0 +1,11 @@
+tests\alertFrameWindows\AlertTests.class
+tests\alertFrameWindows\WindowsTests.class
+tests\bookStore\AddBookTest.class
+tests\JSExecutorTests.class
+tests\widgets\SelectMenuTests.class
+tests\interactions\DragDropTests.class
+tests\elements\LinksAndImagesTests.class
+tests\forms\PracticeFormTest.class
+tests\bookStore\LoginPageTests.class
+tests\TestBase.class
+tests\bookStore\SearchBookTests.class

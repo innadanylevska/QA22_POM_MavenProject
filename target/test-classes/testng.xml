@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="User" verbose="1" >
+    <test name="UserTests" >
+        <classes>
+            <class name="tests.bookStore.LoginPageTests">
+                <parameter name="name" value="neuer"></parameter>
+                <parameter name="password" value="Neuer1234!"></parameter>
+            </class>
+        </classes>
+    </test>
+</suite>
